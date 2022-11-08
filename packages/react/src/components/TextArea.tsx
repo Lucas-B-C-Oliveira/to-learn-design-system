@@ -34,3 +34,5 @@ export const TextArea = styled('textarea', {
 
 // eslint-disable-next-line prettier/prettier
 export interface TextAreaProps extends ComponentProps<typeof TextArea> { }
+
+TextArea.displayName = 'TextArea'
