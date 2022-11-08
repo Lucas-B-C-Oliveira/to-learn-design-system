@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/lucas-b-c-oliveira.png',
     alt: 'Lucas Oliveira',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
