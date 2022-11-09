@@ -11,7 +11,13 @@ Esse projeto trata-se da documentação e aplicação desenvolvida no curso "Des
 
 ## 🔗 Links
 [![Figma](https://img.shields.io/badge/Projeto%20-no%20Figma-blue)](https://www.figma.com/file/8d5PDSAsxld5vsldRZc0Z4/Ignite-Call-(Community)?node-id=0%3A1)
-[![ProjetoOnline]([https://img.shields.io/puppetforge/rc/camptocamp)](https://lucas-b-c-oliveira.github.io/to-learn-design-system/](https://img.shields.io/badge/Link-toView-blueviolet))
+[![Figma](https://img.shields.io/badge/Link-toView-blueviolet)](https://lucas-b-c-oliveira.github.io/to-learn-design-system/)
+
+
+
+
+
+
 
 
 
@@ -27,6 +33,6 @@ Esse projeto trata-se da documentação e aplicação desenvolvida no curso "Des
 - [ x ]  TextArea
 - [ x ]  CheckBox
 - [ x ]  Avatar
-- [ x ]  MultiStep
+- [*]  MultiStep
 
 
