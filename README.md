@@ -6,7 +6,7 @@ Esse projeto trata-se da documentação e aplicação desenvolvida no curso "Des
 
 ## Stack utilizada
 
-**Front-end:** .....
+**Front-end:** StoryBook | React | Lint | Turbo Repo | MonoRepo | TypeScript | Phosphor-React | Polished | Stitches | Radix-UI 
 
 
 ## 🔗 Links
@@ -14,25 +14,15 @@ Esse projeto trata-se da documentação e aplicação desenvolvida no curso "Des
 [![Figma](https://img.shields.io/badge/Link-toView-blueviolet)](https://lucas-b-c-oliveira.github.io/to-learn-design-system/)
 
 
-
-
-
-
-
-
-
-
-
 ## Componentes do Design System:
 
-- [ x ]  Text
-- [ x ]  Heading
-- [ x ]  Box
-- [ x ]  Button
-- [*]  TextInput
-- []  TextArea
-- [ * ]  CheckBox
+- [x]  Text
+- [x]  Heading
+- [x]  Box
+- [x]  Button
+- [x]  TextInput
+- [x]  TextArea
+- [x]  CheckBox
 - [x]  Avatar
-- [*]  MultiStep
-
+- [x]  MultiStep
 
