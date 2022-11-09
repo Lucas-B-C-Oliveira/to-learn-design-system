@@ -29,10 +29,10 @@ Esse projeto trata-se da documentação e aplicação desenvolvida no curso "Des
 - [ x ]  Heading
 - [ x ]  Box
 - [ x ]  Button
-- [ x ]  TextInput
-- [ x ]  TextArea
-- [ x ]  CheckBox
-- [ x ]  Avatar
+- [*]  TextInput
+- []  TextArea
+- [ * ]  CheckBox
+- [x]  Avatar
 - [*]  MultiStep
 
 
