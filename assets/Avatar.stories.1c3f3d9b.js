@@ -1,0 +1,2 @@
+import{A as t}from"./index.c6cf04fe.js";import"./index.871d7cfa.js";import"./iframe.b73398b5.js";import"./index.b7f64f07.js";import"./jsx-runtime.7f3d1bc3.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/lucas-b-c-oliveira.png",alt:"Lucas Oliveira"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.1c3f3d9b.js.map
